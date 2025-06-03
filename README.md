@@ -60,8 +60,8 @@ This project demonstrates how to fetch real-time weather data for multiple citie
 
 ### Example Visualizations
 
-- ![Temperature Bar Chart Example](w1.png)
-- ![Humidity Bar Chart Example](w2.png)
+- ![Temperature Bar Chart Example](w1.PNG)
+- ![Humidity Bar Chart Example](w2.PNG)
 - ![Heatmap Example](w5.png)
 
 ### Customization
